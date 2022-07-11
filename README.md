@@ -569,5 +569,5 @@ gitGraph
 - GitHub documentation https://docs.github.com/en
 - Atlassian Documentation https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 - Oh my git https://ohmygit.org/
-- .gitignore generator https://wwwgitignore.io
+- .gitignore generator https://www.gitignore.io
 - Nico Harms <nico.harms@awi.de>
