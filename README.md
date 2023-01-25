@@ -251,8 +251,6 @@ These workspaces are called branches. You always start with a branch in your Git
 You start with the `main` branch and create your commits in that branch. If you decide you need another branch, the `git switch --create <new_branch>` command (introduced in Git version 2.23) creates a new branch with the current state of the branch you were in before and switches to it. Now you can make changes to it and commit them to this new branch. Your original branch will not be affected by these commit. 
 You can switch between these branches at any time, e.g. `git switch main` to return to your main branch.
 
-ASDASD
-
 ```mermaid
 %%{init: { 'theme': 'neutral', 'gitGraph':  {'mainBranchOrder': '1'} } }%%
 gitGraph
